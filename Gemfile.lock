@@ -71,6 +71,7 @@ PATH
       json (>= 1.5.1)
       money (>= 5.0.0)
       nokogiri (>= 1.4.4)
+      spree_core (< 2.2)
       spree_core (>= 2.0.3)
 
 GEM
